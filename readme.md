@@ -1,6 +1,6 @@
 # Whatsapp Sender
 
-This wraper script 'whatsapp_sender.py' is written by Python 3.7.4 and it used to send automated Whatsapp messages through whatsapp web app. This script can send messages to phone numbers without the need of existing previously as contact.
+This wraper script 'whatsapp_sender.py' is written using Python 3.7.4 and it used to send automated Whatsapp messages through whatsapp web app. This script can send messages to phone numbers without the need of existing previously as existing contacts.
 
 To use this script you should install selenium automator using the following command:
 
@@ -13,6 +13,6 @@ https://selenium-python.readthedocs.io/installation.html#drivers
 If you prefer to work with Google Chrome, then you can find the following page:
 https://sites.google.com/a/chromium.org/chromedriver/downloads
 
-After you download the driver, unzip it, then copy the driver app in the currend directory of the script.
+After you download the driver, unzip it, then copy the driver app into the current directory of the script.
 
 Good luck!
